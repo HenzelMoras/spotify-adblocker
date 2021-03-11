@@ -23,4 +23,4 @@ sudo ./uninstall.sh
 
 ## Note u can edit the /etc/hosts file to block more domains
 
-thanks to @Rajchowdhury420 and his repo from which this was created https://github.com/Rajchowdhury420/Spotify-Ad-ByPass
+thanks :smile: to @Rajchowdhury420 and his repo from which this was created https://github.com/Rajchowdhury420/Spotify-Ad-ByPass
