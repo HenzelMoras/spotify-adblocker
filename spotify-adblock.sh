@@ -12,8 +12,7 @@ then
     exit
 fi
 
-# check if the domains already exists , then delete else append them
-#!/bin/bash
+# check if the domains already exists
 
 check_line=$(grep "$header" "$hostfile")
 if [ "$check_line" ]
