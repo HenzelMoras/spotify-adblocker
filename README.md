@@ -11,4 +11,10 @@ sudo ./spotify-adblock.sh
 
 ![install-script](https://github.com/HenzelMoras/spotify-adblocker/blob/b43adc2c5a1a2dffad232f9d74f2f3ccfe39a3a8/images/install.png)
 
+
+Steps to uninstall the script
+```bash
+sudo ./uninstall.sh
+```
+
 ![unintsall-script](https://github.com/HenzelMoras/spotify-adblocker/blob/39e7711cc8a6a5c40ea754b1ef7c7d58f066359c/images/uninstall.png)
