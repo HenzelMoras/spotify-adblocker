@@ -1,4 +1,4 @@
-# Start Spotify AdBlock
+# start spotify-adblock
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2mdn.net
@@ -509,4 +509,4 @@
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 bs.serving-sys.com
-# End Spotify AdBlock
+# end spotify-adblock
