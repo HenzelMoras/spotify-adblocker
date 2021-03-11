@@ -1,7 +1,7 @@
 # spotify-adblocker
-Bash script to block spotify ads without premium
+**Bash script to block spotify ads without premium**
 
-**Steps to install the script**
+Steps to install the script
 ```bash
 git clone https://github.com/HenzelMoras/spotify-adblocker.git
 cd spotify-adblocker
