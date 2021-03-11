@@ -21,3 +21,5 @@ sudo ./uninstall.sh
 ![unintsall-script](https://github.com/HenzelMoras/spotify-adblocker/blob/39e7711cc8a6a5c40ea754b1ef7c7d58f066359c/images/uninstall.png)
 
 
+## Note u can edit the /etc/hosts file to block more domains
+
