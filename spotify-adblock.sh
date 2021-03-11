@@ -24,7 +24,8 @@ then
 fi
 
 # append the domains to hosts file
-
+echo "blocking spotify ad domains "
 cat blacklist.txt >> ${hostfile}
 
+echo ""
 echo "--- Enjoy spotify without ads :) --- "
